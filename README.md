@@ -3,6 +3,8 @@
 
 - As a part of this mini project we have implemented the database of a delivery system like Fedex ,Blue Dart or Amazon Supply Chain. 
 
+- TechStack Amazon RDS , Nextron. 
+
 - Following is the [ database schema ]( https://dbdiagram.io/d/632be8d97b3d2034ff8679ca ) designed on dbdiagram.io
 
 ![image](https://user-images.githubusercontent.com/76046349/196769181-088676ce-99c1-4d36-875a-63b9262129f1.png)
